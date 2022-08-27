@@ -1,0 +1,2 @@
+# academic_students_information
+Maintains student information in the academy or training center and searches for it if necessary.  Students are enrolled in various courses in academies or training centers. Information about their course fees, payments in installments, advance payments, and dues can be kept. Academic information can be found by searching the student's ID or form serial number in the second worksheet.
